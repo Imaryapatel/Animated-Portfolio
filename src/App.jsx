@@ -1,7 +1,6 @@
 import './app.scss'; 
-import Navbar from "/Users/aryapatel/animated-portfolio/src/components/navbar/Navbar.jsx"
-import Test from "./Test";
-import Sidebar from "./components/sidebar/sidebar";
+import Navbar from './components/navbar/Navbar.jsx';
+import Sidebar from './components/sidebar/sidebar';
 import Hero from "./components/hero/Hero";
 import Parallax from "./components/parallax/Parallax";
 import Services from "./components/services/Services";
