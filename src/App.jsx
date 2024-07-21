@@ -1,13 +1,12 @@
 import './app.scss'; 
 import Navbar from './components/navbar/Navbar.jsx';
-import Sidebar from './components/sidebar/sidebar';
-import Hero from "./components/hero/Hero";
-import Parallax from "./components/parallax/Parallax";
-import Services from "./components/services/Services";
-import Portfolio from "./components/portfolio/Portfolio"; 
-import Contact from "./components/contact/Contact";
-import Resume from "./components/resume/Resume";
-
+import Sidebar from './components/sidebar/sidebar.jsx';
+import Hero from './components/hero/Hero.jsx';
+import Parallax from './components/parallax/Parallax.jsx';
+import Services from './components/services/Services.jsx';
+import Portfolio from './components/portfolio/Portfolio.jsx'; 
+import Contact from './components/contact/Contact.jsx';
+import Resume from './components/resume/Resume.jsx';
 
 const App = () => {
   return (
