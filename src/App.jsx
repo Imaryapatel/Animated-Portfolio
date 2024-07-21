@@ -1,4 +1,4 @@
-import "/Users/aryapatel/animated-portfolio/src/app.scss"
+import './app.scss'; 
 import Navbar from "/Users/aryapatel/animated-portfolio/src/components/navbar/Navbar.jsx"
 import Test from "./Test";
 import Sidebar from "./components/sidebar/sidebar";
