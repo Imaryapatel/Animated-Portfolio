@@ -1,4 +1,4 @@
-import "/Users/aryapatel/animated-portfolio/src/components/navbar/Navbar.scss"
+import './Navbar.scss';
 import { motion } from "framer-motion"
 import Sidebar from "../sidebar/sidebar"
 
