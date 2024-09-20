@@ -8,7 +8,7 @@ const items = [
     title: "My Resume",
     img: "/resume.png",
     desc: "This is my resume which includedes the details of my acedemics and also insights of my projects, to view it, please click on the view button.",
-    visit: "https://drive.google.com/file/d/1Zgif6wy3-huaGHrfw-QjhYkfWhD05NqS/view?usp=sharing",
+    visit: "https://drive.google.com/file/d/1P2-6-e2AEUYqHnMnKdRX_SiN3xPtnHLn/view?usp=drive_link",
   },
 ];
 
