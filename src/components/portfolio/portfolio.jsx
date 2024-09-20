@@ -21,25 +21,25 @@ const items = [
     id: 3,
     title: "MarineBot Analysis",
     img: "/pr3_img.jpg",
-    desc: "Using ReactJs & Postman API I've created this beautiful Netflix-Clone. In this you cannot watch the whole serirs but you can surely watch the respective trailer or the BTS of the particular series.",
-    visit: "https://netflix-clone-ad3bc.web.app",
+    desc: "Developed a MATLAB and Simulink project to create an optimized navigation path for a rover with checkpoints. The system detects underwater artifacts, tracks motion using sensors, and provides real-time feedback to ensure stable and safe navigation.",
+    visit: "https://github.com/Imaryapatel/Rover-Monitoring-System",
 
   },
   {
     id: 4,
     title: "Ecommerce Website",
     img: "/pr4_img.jpg",
-    desc: "This is a unique version of spotify or we can say any music platform. This has been made by using ReactJS & Rapid API with also use of Tailwind CSS framework.",
-    visit: "https://refreshed-spotify.netlify.app/",
+    desc: "Created an eCommerce website that allows users to browse, search, and purchase products online. It includes features like a shopping cart, secure payment integration, and user authentication for a seamless shopping experience.",
+    visit: "https://imaryapatel.github.io/E-Commerce-website/",
 
   },
   {
     id: 5,
     title: "Trek Website",
     img: "/pr5_img.jpg",
-    desc: "My very Data analysis Project in which I basically did the data cleaning/Filteration/ETL of the given data using MySQL & Tableau. After that I also Visualised the data and created an attractive, Responsive & Interactive Dashboard.",
+    desc: "I developed a trekking website that allows users to explore various trekking routes, view detailed trail information, and book treks online. The site features user reviews, difficulty ratings, and gear recommendations to help trekkers plan their adventures easily.",
     visit:
-      "https://public.tableau.com/app/profile/kedar.pandya/viz/Sample_Company_Sales_Insights/Final_Dashboard",
+      "https://imaryapatel.github.io/Trek-website/",
   },
 
 ];
