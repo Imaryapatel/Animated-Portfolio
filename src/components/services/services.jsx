@@ -59,7 +59,7 @@ const Services = () => {
         >
           <h2> cWizer Infotech</h2>
           <p>
-          As a Web Developer intern at cWizer Infotech India, I had the opportunity to develop dynamic and responsive websites for a diverse range of clients. My role involved collaborating with cross-functional teams to ensure the delivery of user-friendly and visually appealing websites that met client specifications and industry standards.
+          As a Data Analyst, I worked on developing Python script to automate data imports into a MySQL database, increasing data processing speed by 30%. Collaborating with data scientists and developers, I contributed to the creation of an NLP-driven AI chatbot to improve user data collection. I also utilized SQL to extract data and integrated insights into Power BI for advanced data visualization and reporting, enabling better decision-making and analysis.
           </p>
         </motion.div>
         <motion.div
@@ -68,7 +68,7 @@ const Services = () => {
         >
           <h2>MyEquation</h2>
           <p>
-          As the Business Development Operations Head at MyEquation, I leveraged advanced Excel for data analysis and optimized marketing and sales strategies. Using Power BI, I transformed complex data into actionable insights. I established key partnerships with companies like Boston Dynamics, connecting 150+ students to opportunities, and collaborated with the stakeholders to ensure effective project execution.
+          As a Business Analyst, I automated repetitive web tasks using Python and Selenium, reducing manual workload by 30%. Leveraging Power BI with DAX and Power Query, I developed real-time sales dashboards to optimize KPI tracking. By utilizing Google BigQuery for large dataset analysis, I linked key insights to Power BI for enhanced reporting. Additionally, I used MySQL Workbench to run SQL queries, ensuring data integrity and actionable insights for informed decision-making.
           </p>        </motion.div>
         <motion.div
           className="box"
